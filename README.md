@@ -1,5 +1,17 @@
 # Nick Griffo's Website
 
+## Videos & Images
+
+I had to take out the `videos` and `images` folders in order to push to GitHub.
+
+### Videos:
+Can be found [here](https://drive.google.com/drive/folders/1cJS3njcyLIe5PUtFPSb-rNPFDRMbOLl1)
+
+### Images:
+Can be found [here](https://drive.google.com/drive/folders/1zqT2bEmt2N5K0xk_LFi61xnRuMssPKWU)
+
+* Once downloaded, make sure to move the `videos/` folder as well as the `images/` folder into the `static/` folder, which lies within the root directory
+
 ## Installation
 
 Make sure you are in the root directory for the project, which contains:
@@ -31,18 +43,6 @@ pip3 install flask
 pip3 install flask_debug_toolbar
 pip3 install flask_sqlalchemy
 ```
-
-## Videos & Images
-
-I had to take out the `videos` and `images` folders in order to push to GitHub.
-
-### Videos:
-Can be found [here](https://drive.google.com/drive/folders/1cJS3njcyLIe5PUtFPSb-rNPFDRMbOLl1)
-
-### Images:
-Can be found [here](https://drive.google.com/drive/folders/1zqT2bEmt2N5K0xk_LFi61xnRuMssPKWU)
-
-* Once downloaded, make sure to move the `videos/` folder as well as the `images/` folder into the `static/` folder, which lies within the root directory
 
 ## Run
 
