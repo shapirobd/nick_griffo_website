@@ -42,7 +42,7 @@ function createRow(i, takenRowsCols, imgPercent) {
 
 function createColumn(i, y, imgPercent, count) {
 	$(`#row-${i}`).append(`
-				<div id="column-${i}-${y}" class="col-xs-12 col-lg" style="width: ${imgPercent}%;"></div>
+				<div id="column-${i}-${y}" class="col" style="width: ${imgPercent}%;"></div>
 			`);
 	if (count !== 1) {
 		$(`#row-${i}`).addClass("collapsed-nobs collapsed-row");
