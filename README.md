@@ -29,7 +29,7 @@ Use the package manager [pip3](https://pip3.pypa.io/en/stable/) to install depen
 ```bash
 pip3 install flask
 pip3 install flask_debug_toolbar
-pip3 install sql_alchemy
+pip3 install flask_sqlalchemy
 ```
 
 ## Videos & Images
