@@ -14,7 +14,7 @@ Can be found [here](https://drive.google.com/drive/folders/1zqT2bEmt2N5K0xk_LFi6
 
 <img width="1440" alt="Images" src="https://user-images.githubusercontent.com/67729880/104086338-f48b4400-5224-11eb-93b3-14d7baacd7ae.png">
 
-* Once downloaded, make sure to move the `videos/` folder as well as the `images/` folder into the `static/` folder, which lies within the project root
+* Once downloaded, make sure to move the `videos/` folder and the `images/` folder into the `static/` folder, which lies within the project root
 
 ## Installation
 
