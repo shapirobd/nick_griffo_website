@@ -42,7 +42,7 @@ Can be found [here](https://drive.google.com/drive/folders/1cJS3njcyLIe5PUtFPSb-
 ### Images:
 Can be found [here](https://drive.google.com/drive/folders/1zqT2bEmt2N5K0xk_LFi61xnRuMssPKWU)
 
-* Once downloaded, make sure to move the `videos` folder as well as the `images` folder into `static/` folder within the root directory
+* Once downloaded, make sure to move the `videos/` folder as well as the `images/` folder into the `static/` folder within the root directory
 
 ## Run
 
