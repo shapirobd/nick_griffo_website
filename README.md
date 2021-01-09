@@ -2,7 +2,7 @@
 
 ## Videos & Images
 
-I had to take out the `videos` and `images` folders in order to push to GitHub.
+I had to take out the `videos/` and `images/` folders in order to push to GitHub.
 
 ### Videos:
 Can be found [here](https://drive.google.com/drive/folders/1cJS3njcyLIe5PUtFPSb-rNPFDRMbOLl1)
