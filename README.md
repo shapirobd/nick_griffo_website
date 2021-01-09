@@ -1,5 +1,5 @@
 # Nick Griffo's Website
-
+---
 ## Videos & Images
 
 I had to take out the `videos/` and `images/` folders in order to push to GitHub.
