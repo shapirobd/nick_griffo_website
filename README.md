@@ -40,7 +40,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-4. Use the package manager [pip3](https://pip3.pypa.io/en/stable/) to install dependencies.
+4. Use the package manager pip3 to install dependencies.
 
 ```bash
 pip3 install flask
